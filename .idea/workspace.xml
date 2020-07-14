@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d198368e-e88b-403a-ae2d-62257e80ff73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d4etso4jucPaQPKk2ElAQmrVLx" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Algorithms" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="GUI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\Java\Graph_AI\src\main\java\Algorithms" />
+      <recent name="D:\Programming\Java\Graph_AI\src\main\java\App" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="HangmanGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HangmanPack.HangmanGame" />
+      <module name="GraphAI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HangmanPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App.MainClass" />
+      <module name="GraphAI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="App.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.HangmanGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d198368e-e88b-403a-ae2d-62257e80ff73" name="Default Changelist" comment="" />
+      <created>1591689010434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591689010434</updated>
+      <workItem from="1591689011812" duration="641000" />
+      <workItem from="1591689754049" duration="17000" />
+      <workItem from="1591689803364" duration="3919000" />
+      <workItem from="1591858147263" duration="753000" />
+      <workItem from="1591868542808" duration="1305000" />
+      <workItem from="1591957979587" duration="17494000" />
+      <workItem from="1592211040906" duration="1105000" />
+      <workItem from="1592232148591" duration="3222000" />
+      <workItem from="1592909255681" duration="5327000" />
+      <workItem from="1593252883089" duration="2178000" />
+      <workItem from="1593266481886" duration="849000" />
+      <workItem from="1593271012102" duration="489000" />
+      <workItem from="1593328830626" duration="4190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1591989970048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591989970048" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591991467298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591991467298" />
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1592238149759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="434" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1592238149759" />
+    <state x="740" y="236" key="FileChooserDialogImpl" timestamp="1591689651309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="236" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591689651309" />
+    <state width="1877" height="148" key="GridCell.Tab.0.bottom" timestamp="1593335310228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="148" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593335310228" />
+    <state width="1877" height="148" key="GridCell.Tab.0.center" timestamp="1593335310228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="148" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593335310228" />
+    <state width="1877" height="148" key="GridCell.Tab.0.left" timestamp="1593335310228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="148" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593335310228" />
+    <state width="1877" height="148" key="GridCell.Tab.0.right" timestamp="1593335310228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="148" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593335310228" />
+    <state width="1877" height="271" key="GridCell.Tab.1.bottom" timestamp="1592914916466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592914916466" />
+    <state width="1877" height="271" key="GridCell.Tab.1.center" timestamp="1592914916466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592914916466" />
+    <state width="1877" height="271" key="GridCell.Tab.1.left" timestamp="1592914916466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592914916466" />
+    <state width="1877" height="271" key="GridCell.Tab.1.right" timestamp="1592914916466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592914916466" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1591690942945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591690942945" />
+    <state x="656" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1593328853939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="305" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593328853939" />
+    <state x="121" y="253" width="700" height="530" key="recent.locations.popup" timestamp="1591690655475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="121" y="253" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591690655475" />
+    <state x="136" y="244" key="run.anything.popup" timestamp="1591690810493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="136" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591690810493" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/HangmanPack/HangmanGame.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
